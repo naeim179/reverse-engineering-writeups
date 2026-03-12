@@ -2,6 +2,13 @@
 
 ## Category: Reverse Engineering
 
+## Challenge Information
+
+- **Challenge Name:** `The Will`
+- **Category:** `Reverse Engineering`
+- **Platform:** `JordanSec CTF`
+- **Difficulty:** `Medium`
+
 ## 1. Description
 
 The challenge provided a Windows executable file named **`The will.exe`**. Based on the challenge description, which suggested that the program “hides a secret in the depths,” the objective was to analyze the executable, locate any hidden data, and recover the secret contained within it.
