@@ -1,34 +1,6 @@
-# First Reverse Engineering Write-up
+# Reverse Engineering Write-ups
 
-## Challenge Info
-- Name: 
-- Category: Reverse Engineering
-- Difficulty: 
-- Platform: 
+This repository contains my reverse engineering write-ups, challenge notes, and binary analysis practice.
 
-## Objective
-Briefly describe what the challenge asks for.
-
-## Tools Used
-- Ghidra
-- x64dbg
-- strings
-
-## Initial Analysis
-Write your first observations about the binary.
-
-## Static Analysis
-Describe functions, strings, comparisons, and important code paths.
-
-## Dynamic Analysis
-Explain breakpoints, tracing, memory inspection, or debugger findings.
-
-## Solution
-Explain how the protection/check works and how you solved it.
-
-## Flag / Result
-`flag{example}`
-
-## Lessons Learned
-- 
-- 
+## Write-ups
+- [First Write-up](./first-writeup/README.md)
