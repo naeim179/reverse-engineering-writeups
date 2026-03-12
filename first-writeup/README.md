@@ -1,6 +1,3 @@
-# Challenge Write-up: *The Will*
-
-## Category: Reverse Engineering
 
 ## Challenge Information
 
