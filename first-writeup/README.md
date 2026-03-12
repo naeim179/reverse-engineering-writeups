@@ -104,3 +104,6 @@ This challenge highlights several important reverse engineering concepts:
 ## 11. Conclusion
 
 The challenge was solved by combining static analysis, resource extraction, and cryptographic reversal. By decompiling the .NET assembly, locating the embedded encrypted resource, recovering the AES-CBC decryption parameters, and correcting the decrypted output using the PNG magic bytes, the hidden image was successfully restored and the flag was obtained.
+
+and hey before u go this is the sol.py i used
+https://github.com/naeim179/reverse-engineering-writeups/blob/main/first-writeup/sol.py
